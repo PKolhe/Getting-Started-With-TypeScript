@@ -1,0 +1,9 @@
+{
+    "extends": "../tsconfig.base",      // extends the base config file
+    "compilerOptions": {
+        "removeComments": true
+    },
+    "include": [
+        "./**/*"
+    ]
+}
