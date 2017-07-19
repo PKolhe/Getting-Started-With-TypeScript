@@ -12,7 +12,7 @@
         "npm-debug.log": true
     },
 
-    "editor.fontSize": 14,
+    "editor.fontSize": 16,
     "editor.quickSuggestions": true,
     "editor.parameterHints": true,
     "editor.wordBasedSuggestions": true,
@@ -21,7 +21,7 @@
 
     "window.zoomLevel": 1,
     
-    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontSize": 18,
 
     "editor.cursorBlinking": "solid"
 }
